@@ -1,4 +1,4 @@
-# 🆕 🎉 Run Shell Command In Python - I
+# Run Shell Command In Python - I
 
 This page is the first part of "run shell command in python", I will introduce you the subprocess package and ways to run command in python. In [the second part](../python-basics-1/run-shell-command-in-python-ii.md), I will introduce some more advanced knowledge about stdin, stdout and pipe with the subprocess package.
 

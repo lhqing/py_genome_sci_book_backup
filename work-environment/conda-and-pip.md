@@ -245,7 +245,8 @@ conda create -n genome_book \
     pysam==0.15.4 \
     deeptools==3.4.2 \
     pybedtools==0.8.1 \
-    scanpy=1.4
+    scanpy=1.4 \
+    salmon==1.2.1
 
 # Forth, enter the env
 conda activate genome_book

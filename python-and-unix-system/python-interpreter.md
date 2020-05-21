@@ -1,4 +1,4 @@
-# 🆕 🎉 Run Python
+# Run Python
 
 ## Three Ways to Run Python
 

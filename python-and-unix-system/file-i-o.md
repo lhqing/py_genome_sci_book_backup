@@ -2,7 +2,7 @@
 description: 'Read/write your data table, or any python object from/to files'
 ---
 
-# 🆕 🎉 File I/O
+# File I/O
 
 All data analysis start from reading files into memory and end with saving results into new files. Here I summarized everything you need to know about files, and how to read and write files in python. For those genome science specific file formats, I will talk about how to deal with them in a separate chapter \("GENOME SCIENCE DATA"\)
 

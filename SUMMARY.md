@@ -25,10 +25,10 @@
 
 ## Python and UNIX System
 
-* [🆕 🎉 Run Python](python-and-unix-system/python-interpreter.md)
-* [🆕 🎉 File I/O](python-and-unix-system/file-i-o.md)
-* [🆕 🎉 Run Shell Command In Python - I](python-and-unix-system/run-shell-command-in-python.md)
-* [Case Study: Mapping bulk RNA-seq reads with salmon 🚩](python-and-unix-system/case-study-mapping-bulk-rna-seq-reads-with-salmon.md)
+* [Run Python](python-and-unix-system/python-interpreter.md)
+* [File I/O](python-and-unix-system/file-i-o.md)
+* [Run Shell Command In Python - I](python-and-unix-system/run-shell-command-in-python.md)
+* [🆕 🎉 Case Study: Mapping bulk RNA-seq reads with salmon](python-and-unix-system/case-study-mapping-bulk-rna-seq-reads-with-salmon.md)
 
 ## Data Cleaning
 
@@ -75,4 +75,5 @@
 
 * [Check whether package X is installed](gotchas/check-whether-package-x-is-installed.md)
 * [BAM to FASTQ](gotchas/bam-to-fastq.md)
+* [Genomic Websites](gotchas/genomic-websites.md)
 
