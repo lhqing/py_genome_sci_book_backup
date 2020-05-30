@@ -1,30 +1,8 @@
-# \[🚧\] Pandas Basics 🚩
+# \[🚧\] Key Concept of Pandas 🚩
 
-Genome science, or data science in general, is all about dealing with formatted data files \(e.g. an CSV table\). Pandas is like the "Excel" of python. Therefore, pandas is one of the most important package to learn for doing genomic data analysis in python. Here I provide you a one-page introduction to pandas. It's not intend to cover everything 
+Data cleaning is probably the most time consuming and tedious step for genomic data analysis. Luckily in python, we have the package called Pandas to help with that. Pandas is like the "Excel" of python. It's such a versatile package 
 
-## Key Data Structures in Pandas
-
-### Index
-
-
-
-### Series
-
-
-
-### Dataframe
-
-
-
-## copy or in-place
-
-
-
-## "Correct" way vs. "wrong" way
-
-
-
-## How to learn pandas?
+## 
 
 
 
