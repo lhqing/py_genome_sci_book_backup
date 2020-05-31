@@ -37,7 +37,7 @@
 * [Case Study: Exploring The Dataset 🚩](data-cleaning/case-study-calculate-tpm-and-do-filtering-using-pandas.md)
 * [The "copy" and "inplace" Parameter 🚩](data-cleaning/the-copy-and-inplace-parameter.md)
 * [Case Study: Extract and Reformat GTF file 🚩](data-cleaning/case-study-extract-and-reformat-gtf-file.md)
-* [the correct vs. the wrong way of using pandas](data-cleaning/the-correct-vs.-the-wrong-way-of-using-pandas.md)
+* [the correct vs. the wrong way of using pandas 🚩](data-cleaning/the-correct-vs.-the-wrong-way-of-using-pandas.md)
 * [Case Study: Bulk Sample PCA 🚩](data-cleaning/case-study-bulk-sample-pca.md)
 
 ## PYTHON BASICS <a id="python-basics-1"></a>
