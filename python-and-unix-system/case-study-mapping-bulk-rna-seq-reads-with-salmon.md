@@ -1,4 +1,4 @@
-# 🆕 🎉 Case Study: Mapping bulk RNA-seq reads with salmon
+# 🎉 Case Study: Mapping bulk RNA-seq reads with salmon
 
 In this book, we will use a bulk RNA-seq data from mouse developing forebrain as an example. In the github repo, I already provided [quantified salmon tables](https://github.com/lhqing/py_genome_sci_book/tree/master/data/DevFB). In this page, we will use a small subset of the data to reproduce the these `salmon quant` tables using exact process.
 

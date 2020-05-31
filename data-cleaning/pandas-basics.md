@@ -1,4 +1,4 @@
-# \[🚧\] Key Concept of Pandas
+# 🎉 Key Concept of Pandas
 
 I think in general, a complete genomic data analysis can be divide into three parts: 
 

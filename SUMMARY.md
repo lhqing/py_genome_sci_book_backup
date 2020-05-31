@@ -28,11 +28,11 @@
 * [Run Python](python-and-unix-system/python-interpreter.md)
 * [File I/O](python-and-unix-system/file-i-o.md)
 * [Run Shell Command In Python - I](python-and-unix-system/run-shell-command-in-python.md)
-* [🆕 🎉 Case Study: Mapping bulk RNA-seq reads with salmon](python-and-unix-system/case-study-mapping-bulk-rna-seq-reads-with-salmon.md)
+* [🎉 Case Study: Mapping bulk RNA-seq reads with salmon](python-and-unix-system/case-study-mapping-bulk-rna-seq-reads-with-salmon.md)
 
 ## Data Cleaning
 
-* [\[🚧\] Key Concept of Pandas](data-cleaning/pandas-basics.md)
+* [🎉 Key Concept of Pandas](data-cleaning/pandas-basics.md)
 * [Case Study: Aggregate Salmon Output 🚩](data-cleaning/case-study-aggregate-salmon-output.md)
 * [The "copy" and "inplace" Parameter 🚩](data-cleaning/the-copy-and-inplace-parameter.md)
 * [Case Study: Extract and Reformat GTF file 🚩](data-cleaning/case-study-extract-and-reformat-gtf-file.md)
