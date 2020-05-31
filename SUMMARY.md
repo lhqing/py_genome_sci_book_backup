@@ -32,11 +32,12 @@
 
 ## Data Cleaning
 
-* [\[🚧\] Key Concept of Pandas 🚩](data-cleaning/pandas-basics.md)
+* [\[🚧\] Key Concept of Pandas](data-cleaning/pandas-basics.md)
 * [Case Study: Aggregate Salmon Output 🚩](data-cleaning/case-study-aggregate-salmon-output.md)
 * [The "copy" and "inplace" Parameter 🚩](data-cleaning/the-copy-and-inplace-parameter.md)
 * [Case Study: Extract and Reformat GTF file 🚩](data-cleaning/case-study-extract-and-reformat-gtf-file.md)
 * [Relationship Between Pandas and Numpy 🚩](data-cleaning/relationship-between-pandas-and-numpy.md)
+* [the correct vs. the wrong way of using pandas](data-cleaning/the-correct-vs.-the-wrong-way-of-using-pandas.md)
 * [Case Study: Calculate TPM and Do Filtering Using Pandas 🚩](data-cleaning/case-study-calculate-tpm-and-do-filtering-using-pandas.md)
 * [Case Study: Bulk Sample PCA 🚩](data-cleaning/case-study-bulk-sample-pca.md)
 
