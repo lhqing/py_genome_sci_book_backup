@@ -2,6 +2,8 @@
 
 In this book, we will use a bulk RNA-seq data from mouse developing forebrain as an example. In the github repo, I already provided [quantified salmon tables](https://github.com/lhqing/py_genome_sci_book/tree/master/data/DevFB). In this page, we will use a small subset of the data to reproduce the these `salmon quant` tables using exact process.
 
+The input are 25 FASTQ files \(truncated for demo purpose\) downloaded from ENCODE that belong to 16 samples, the output are 16 `salmon quant` tables contain transcript-level quantification for each sample.
+
 ## How to follow this case study?
 
 1. [Download or update github repository](../work-environment/git-and-github.md#clone-github-repository-of-this-book), the files for this case study located in `py_genome_sci_book/analysis/salmon_demo`

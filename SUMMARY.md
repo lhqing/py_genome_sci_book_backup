@@ -33,7 +33,7 @@
 ## Data Cleaning
 
 * [🎉 Key Concept of Pandas](data-cleaning/pandas-basics.md)
-* [Case Study: Aggregate Salmon Quant 🚩](data-cleaning/case-study-aggregate-salmon-output.md)
+* [🎉 Case Study: Aggregate Salmon Quant](data-cleaning/case-study-aggregate-salmon-output.md)
 * [Case Study: Exploring The Dataset 🚩](data-cleaning/case-study-calculate-tpm-and-do-filtering-using-pandas.md)
 * [The "copy" and "inplace" Parameter 🚩](data-cleaning/the-copy-and-inplace-parameter.md)
 * [Case Study: Extract and Reformat GTF file 🚩](data-cleaning/case-study-extract-and-reformat-gtf-file.md)
